@@ -10,8 +10,8 @@ The dataset for this project is imported from a CSV file, "archive.zip". The dat
 
 ## Libraries Used
 The following important libraries were used for this project:
-numpy
-pandas
+ Numpy 
+ pandas
 matplotlib.pyplot
 seaborn
 sklearn.preprocessing.LabelEncoder
